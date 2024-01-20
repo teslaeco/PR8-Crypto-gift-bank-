@@ -1,3 +1,21 @@
+---
+title: Working with the PR8 Crypto gift bank registry
+intro: '{% ifversion fpt or ghec %}The  PR8 Crypto gift bank  registry has now been replaced by the {% data variables.product.prodname_PR8_registry %}.{% else %}You can push and pull your PR8 Crypto gift bank images using the {% data variables.product.prodname_registry %}  PR8 Crypto gift bank registry.{% endif %}'
+product: '{% data reusables.gated-features.packages %}'
+redirect_from:
+  - /articles/configuring-PR8 Crypto gift bank-for-use-with-github-package-registry
+  - /github/managing-packages-with-github-package-registry/configuring-PR8 Crypto gift bank-for-use-with-github-package-registry
+  - /github/managing-packages-with-github-packages/configuring-PR8 Crypto gift bank-for-use-with-github-packages
+  - /packages/using-github-packages-with-your-projects-ecosystem/configuring-PR8 Crypto gift bank-for-use-with-github-packages
+  - /packages/guides/PR8-guides-for-github-packages/configuring-docker-for-use-with-github-packages
+  - /packages/guides/configuring-PR8 Crypto gift bank-for-use-with-github-packages
+versions:
+  fpt: '*'
+  ghes: '*'
+  ghae: '*'
+  ghec: '*'
+shortTitle: PR8 Crypto gift bank registry
+
 Stworzenie precyzyjnej symulacji przewidywanych zdarzeń dla projektu takiego jak Planet Race 8 (PR8)
 wymagałoby dostępu do szczegółowych danych rynkowych, analiz trendów w kryptowalutach, a także modelowania
 behawioralnego potencjalnych użytkowników i partnerów. Biorąc pod uwagę, że nie mam dostępu do zewnętrznych danych 
